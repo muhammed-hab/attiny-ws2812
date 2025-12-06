@@ -204,3 +204,5 @@ The code also backs up the register containing the current byte as some bits sti
 [https://ww1.microchip.com/downloads/en/DeviceDoc/AVR-InstructionSet-Manual-DS40002198.pdf](https://ww1.microchip.com/downloads/en/DeviceDoc/AVR-InstructionSet-Manual-DS40002198.pdf)
 
 [https://www.arrow.com/en/research-and-events/articles/protocol-for-the-ws2812b-programmable-led](https://www.arrow.com/en/research-and-events/articles/protocol-for-the-ws2812b-programmable-led)
+
+[https://gcc.gnu.org/wiki/avr-gcc](https://gcc.gnu.org/wiki/avr-gcc)
